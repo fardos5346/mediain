@@ -28,7 +28,7 @@ This file contains a query to get monthly and weekly average for posts that user
 full_stack.sql
 This is a database file. Contains database with posts and users tables.
 
-search file 
-this is a search form to search post_id or user id . 
+search.php
+This is a search form to search post_id or user id . 
 
 
